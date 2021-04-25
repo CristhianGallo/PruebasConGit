@@ -11,3 +11,4 @@ Segunda liena agregada desde gitHUb pero en la RAMA DEV
 Liena añadida desde el repo local y va para dev del remoto
 Linea nueva dev añadida desde web remote repo
 epa, estal inea de nuevo es desde una clonación local
+Adicionar esta linea solo a dev y ver si sale cuando hago pull del repo clonado
