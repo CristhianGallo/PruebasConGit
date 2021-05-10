@@ -1,13 +1,1 @@
-se añade contenido al archivo
-otra lineaaaaa
-Esta linea se hizo en dev, pero depsues con un merge se adiciono a master
-otro cambio pero en dev hecho en la rama dev
-desarrollo cambio
-Otro cambio en dev
-esto no puede ocasionar conflicto
-DEV DEV DEV
-Linea añadida desde GITHUB
-Segunda liena agregada desde gitHUb pero en la RAMA DEV
-Liena añadida desde el repo local y va para dev del remoto
-Linea nueva dev añadida desde web remote repo
-epa, estal inea de nuevo es desde una clonación local
+HEADER
