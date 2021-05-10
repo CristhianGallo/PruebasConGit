@@ -6,8 +6,13 @@ desarrollo cambio
 Otro cambio en dev
 esto no puede ocasionar conflicto
 DEV DEV DEV
+<<<<<<< HEAD
+Dev desde compu local 
+=======
 Linea añadida desde GITHUB
 Segunda liena agregada desde gitHUb pero en la RAMA DEV
 Liena añadida desde el repo local y va para dev del remoto
 Linea nueva dev añadida desde web remote repo
 epa, estal inea de nuevo es desde una clonación local
+Adicionar esta linea solo a dev y ver si sale cuando hago pull del repo clonado
+>>>>>>> f16e59df4039267f7e90e0fdbf0dfb94f81ad7bf
